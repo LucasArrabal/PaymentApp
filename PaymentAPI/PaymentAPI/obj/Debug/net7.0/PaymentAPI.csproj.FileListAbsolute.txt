@@ -252,3 +252,6 @@ C:\Users\lucas.arrabal_uscson\source\repos\PaymentAPI\PaymentAPI\bin\Debug\net7.
 C:\Users\lucas.arrabal_uscson\source\repos\PaymentAPI\PaymentAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\lucas.arrabal_uscson\source\repos\PaymentAPI\PaymentAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\lucas.arrabal_uscson\source\repos\PaymentAPI\PaymentAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas.arrabal_uscson\source\repos\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.RazorAssemblyInfo.cache
+C:\Users\lucas.arrabal_uscson\source\repos\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.RazorAssemblyInfo.cs
+C:\Users\lucas.arrabal_uscson\source\repos\PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.sourcelink.json
