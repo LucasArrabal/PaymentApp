@@ -9,13 +9,13 @@
         <ul class="list-group">
             <li class="list-group-item d-flex justify-content-between align-itemns-st-start mb-2 border px-4 py-3 rounded-3" 
             *ngFor="let pd of service.list">
-            <div class="flex-grow-1 mouse-hover">
+            <div class="flex-grow-1 mouse-hover" (click) ="populate(pd)">
                 <div class="fw-bold">{{pd.cardOwnerName}}</div>
                 <div>{{pd.cardNumber}}</div>
                 <div class="fw-bold">{{pd.expirationDate}}</div> 
             </div>
             <span class="text-secondery">
-                <i class="fa-solid fa-trash-can fa-lg mouse-hover"></i>
+                <i class="fa-solid fa-trash-can fa-lg mouse-hover" (click)="onDelete(pd.paymentDetailId)"></i>
             </span>
             </li>
         </ul>

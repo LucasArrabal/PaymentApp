@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.arrabal_uscson\\source\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
+    "C:\\Users\\Lucas\\Documents\\Payment\\PaymentApp\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.arrabal_uscson\\source\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
+    "C:\\Users\\Lucas\\Documents\\Payment\\PaymentApp\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.arrabal_uscson\\source\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\Payment\\PaymentApp\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
         "projectName": "PaymentAPI",
-        "projectPath": "C:\\Users\\lucas.arrabal_uscson\\source\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
-        "packagesPath": "C:\\Users\\lucas.arrabal_uscson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.arrabal_uscson\\source\\repos\\PaymentAPI\\PaymentAPI\\obj\\",
+        "projectPath": "C:\\Users\\Lucas\\Documents\\Payment\\PaymentApp\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\Documents\\Payment\\PaymentApp\\PaymentAPI\\PaymentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas.arrabal_uscson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
